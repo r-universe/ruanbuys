@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "bipl5"]
 	path = bipl5
-	url = https://github.com/cran/bipl5
+	url = https://github.com/ruanbuys/bipl5
